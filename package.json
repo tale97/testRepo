@@ -1,6 +1,6 @@
 {
-  "name": "katakana-teaching-webapp",
-  "homepage": "https://tale97.github.io/KatakanaTeachingWebapp/",
+  "name": "test-repo",
+  "homepage": "https://tale97.github.io/testRepo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
