@@ -490,7 +490,7 @@ class App extends Component {
               aria-describedby="alert-dialog-description"
             >
               <DialogTitle id="alert-dialog-title">
-                {"Time's Up!"}
+                {`Time's Up! You've reached level ${this.state.userInfo.moduleIndex}!`}
               </DialogTitle>
               <DialogContent>
                 <DialogContentText id="alert-dialog-description">
